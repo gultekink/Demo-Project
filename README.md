@@ -1,1 +1,1 @@
-![alt text](http://url/to/Screenshot_1.png)
+![alt text](file:///C:/Users/gulte/Desktop/Screenshot_1.png)
